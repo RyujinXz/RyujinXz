@@ -1,81 +1,72 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header"/>
+# 🌟 **Matheus Lopes** | Desenvolvedor Full-Stack 🚀  
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header&animation=fadeIn&fontAlignY=40"/>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Fala+aí!+Sou+Matheus+Lopes+🚀;Desenvolvedor+Full-Stack+com+foco+em+Python+💻;Seja+muito+bem-vindo+ao+meu+GitHub!)](https://github.com/RyujinXz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Sou+Matheus+Lopes+👋;Desenvolvedor+Full-Stack+Python+Django;Academy+@+Transfero)](https://github.com/RyujinXz)  
 
----
-
-🎯 **Sobre mim**  
-Atualmente com 18 anos e integrante do Academy da Transfero, venho evoluindo diariamente como desenvolvedor. Meus projetos são o coração da minha jornada — foi construindo soluções reais que aprendi como a programação pode ser poderosa, criativa e transformadora.
-
-Comecei mergulhando no Python, dominando conceitos de orientação a objetos e explorando o universo do Django. Com o tempo, fui dando vida às interfaces com HTML, CSS e JavaScript, sempre focado em entender mais do que "como fazer", mas "por que fazer assim?".
-
-Aqui você vai encontrar desde experimentos até projetos mais completos, todos com uma coisa em comum: aprendizado na prática. 🚧💡
-
-</div>
+### 👨‍💻 **Sobre Mim**  
+<p align="center">  
+🎯 <strong>18 anos</strong> | <strong>Nova Iguaçu, RJ</strong>  
+💡 Formado em <strong>Programação em Python</strong> pelo SENAC-RJ  
+🚀 Atualmente cursando <strong>Programação Full Stack com Aplicações em Cripto</strong>  
+🌐 <strong>Inglês avançado</strong> | <strong>Interesses:</strong> IA, Criptomoedas, Games  
+</p>  
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+### 🛠 **Tecnologias & Ferramentas**  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bootstrap" />
-</div>
+#### **Stack Principal**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
 
----
+#### **Ferramentas & Conhecimentos**  
+[![CRUD](https://img.shields.io/badge/CRUD-Operations-4A154B?style=for-the-badge)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+[![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Crypto](https://img.shields.io/badge/Cryptocurrency-0769AD?style=for-the-badge&logo=bitcoin&logoColor=white)](https://en.wikipedia.org/wiki/Cryptocurrency)
 
-## 📚 Atualmente me aprofundando em
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,postgres" />
-</div>
-
----
-
-## 🛠️ Ferramentas de trabalho
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</div>
+#### **Ferramentas de Trabalho**  
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
+[![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/)  
 
 ---
 
-## 📬 Contato
+### 📚 **Formação & Certificações**  
 
-<div align="center">
-  <a href="mailto:matheusmarcelino.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matheusiopesdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+- **Programação em Python** - SENAC-RJ (Concluído)
+- **Programação Full Stack com Aplicações em Cripto** - SENAC-RJ (Cursando)
+- **Inteligência Artificial: Muito Além do Prompt** - SENAC-RJ
+- **Fundamentos de TI: Hardware e Software** - Fundação Bradesco
+- **Workshop: Designer de Games** - SENAC-RJ
 
 ---
 
-## 📈 GitHub Stats
+### 📊 **GitHub Stats**  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyujinXz&show_icons=true&theme=midnight-purple"/>
-</div>
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyujinXz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyujinXz&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>  
 
----
-
-## 🐍 Contribuições animadas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake Animation](https://github.com/RyujinXz/RyujinXz/blob/output/github-contribution-grid-snake-dark.svg)  
 
 ---
 
-<div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRyujinXz&color=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count&ta=" alt="visits">
-</div>
+### 📩 **Contato**  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmarcelino.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusiopesdev/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521972392745)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer&animation=fadeIn&fontAlignY=70"/>  
+
+---  
+
+✨ <strong>"Transformando linhas de código em soluções inovadoras"</strong> ✨  
+
+**Obrigado pela visita!** 😊  
