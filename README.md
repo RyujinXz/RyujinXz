@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Fala+aí!+Sou+Matheus+Lopes+🚀;Desenvolvedor+Full-Stack+com+foco+em+Python+e+Django+💻;Seja+muito+bem-vindo+ao+meu+GitHub!)](https://github.com/RyujinXz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Fala+aí!+Sou+Matheus+Lopes+🚀;Desenvolvedor+Full-Stack+com+foco+em+Python+💻;Seja+muito+bem-vindo+ao+meu+GitHub!)](https://github.com/RyujinXz)
 
 ---
 
