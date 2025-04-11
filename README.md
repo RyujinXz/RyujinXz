@@ -53,7 +53,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyujinXz&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>  
 
-![Snake Animation](https://github.com/RyujinXz/RyujinXz/blob/output/github-contribution-grid-snake-dark.svg)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyujinXz&show_icons=true)
 
 ---
 
