@@ -53,8 +53,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyujinXz&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyujinXz&show_icons=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
+</picture>
 
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBarbosAlan&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
 ---
 
 ### 📩 **Contato**  
